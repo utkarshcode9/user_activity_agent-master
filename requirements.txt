@@ -1,0 +1,12 @@
+firebase-admin
+pyautogui
+pynput
+psutil
+schedule
+Flask
+pytz
+filelock
+Pillow
+cryptography
+google-api-python-client
+requests
